@@ -48,13 +48,14 @@
 
 
 <div class="section">
-    <h2>Additional Resources</h2>
-    <p>Links to additional documentation, related projects...</p>
-</div>
-
-<div class="section">
     <h2>Visuals</h2>
     <p>Showcase your project with images, GIFs, or videos...</p>
+</div>
+
+
+<div class="section">
+    <h2>Additional Resources</h2>
+    <p>Links to additional documentation, related projects...</p>
 </div>
 
 </body>
