@@ -1,19 +1,3 @@
-<html>
-<head>
-    <title>Your Project Title</title>
-    <style>
-        /* Add any custom CSS here */
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section h2 {
-            color: #007bff; /* Example color */
-        }
-    </style>
-</head>
 <body>
 
 <div class="section">
