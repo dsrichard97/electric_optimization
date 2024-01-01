@@ -41,7 +41,7 @@
 </div>
 
 <div class="section" id="Analysis">
-    <h2>Dataset</h2>
+    <h2>Analysis</h2>
     <p>Detailed examples of how to use your project...</p>
     <!-- Include code snippets and screenshots -->
 </div>
