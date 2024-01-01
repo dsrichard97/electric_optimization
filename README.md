@@ -14,47 +14,38 @@
 <div class="section">
     <h2>Table of Contents</h2>
     <ul>
-        <li><a href="#installation">Installation and Setup</a></li>
-        <li><a href="#usage">Usage</a></li>
+        <li><a href="#Installation">Installation and Setup</a></li>
+        <li><a href="#Usage">Usage</a></li>
         <li><a href="#Dataset">Dataset</a></li>
+        <li><a href="#Analysis">Analysis</a></li>
         <!-- Add other sections as needed -->
     </ul>
 </div>
 
-<div class="section" id="installation">
+<div class="section" id="Installation">
     <h2>Installation and Setup</h2>
     <p>Instructions for setting up your project...</p>
     <!-- Include any code snippets if necessary -->
 </div>
 
-<div class="section" id="usage">
+<div class="section" id="Usage">
     <h2>Usage</h2>
     <p>Detailed examples of how to use your project...</p>
     <!-- Include code snippets and screenshots -->
 </div>
 
-<div class="Dataset" id="usage">
+<div class="section" id="Dataset">
     <h2>Dataset</h2>
     <p>Detailed examples of how to use your project...</p>
     <!-- Include code snippets and screenshots -->
 </div>
 
-<!-- Repeat the above pattern for other sections like Features, Technology Stack, etc. -->
-
-<div class="section">
-    <h2>Credits and Acknowledgments</h2>
-    <p>Credits to contributors and third-party assets...</p>
+<div class="section" id="Analysis">
+    <h2>Dataset</h2>
+    <p>Detailed examples of how to use your project...</p>
+    <!-- Include code snippets and screenshots -->
 </div>
 
-<div class="section">
-    <h2>License</h2>
-    <p>Details about the project license...</p>
-</div>
-
-<div class="section">
-    <h2>Contact Information</h2>
-    <p>Your contact details or other ways to reach you...</p>
-</div>
 
 <div class="section">
     <h2>Additional Resources</h2>
