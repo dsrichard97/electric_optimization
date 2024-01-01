@@ -16,6 +16,7 @@
     <ul>
         <li><a href="#installation">Installation and Setup</a></li>
         <li><a href="#usage">Usage</a></li>
+        <li><a href="#Dataset">Dataset</a></li>
         <!-- Add other sections as needed -->
     </ul>
 </div>
@@ -28,6 +29,12 @@
 
 <div class="section" id="usage">
     <h2>Usage</h2>
+    <p>Detailed examples of how to use your project...</p>
+    <!-- Include code snippets and screenshots -->
+</div>
+
+<div class="Dataset" id="usage">
+    <h2>Dataset</h2>
     <p>Detailed examples of how to use your project...</p>
     <!-- Include code snippets and screenshots -->
 </div>
