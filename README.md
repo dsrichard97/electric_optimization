@@ -1,8 +1,11 @@
+<head>
+    <!-- Other head elements -->
+    <link rel="stylesheet" href="style.css">
+</head>
 <body>
-
-<div class="section">
-    <h1>Patient Outcome Analysis</h1>
-</div>
+    <header>
+        <h1>Patient Outcome Analysis</h1>
+    </header>
 
 <div class="section">
     <h2>Introduction</h2>
